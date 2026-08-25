@@ -13,7 +13,7 @@ const title = "Article preview component";
 const description =
   "An article preview card with a share tooltip — a Frontend Mentor challenge built with Next.js, TypeScript, and Tailwind CSS.";
 const siteUrl =
-  "https://article-preview-component-v2.abdelrhman-ahmed8881.workers.dev";
+  "https://article-preview-component.abdelrhman-ahmed8881.workers.dev";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),

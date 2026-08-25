@@ -20,8 +20,8 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/MrBlackvanta/article-preview-component-v2)
-- Live Site URL: [Cloudflare](https://article-preview-component-v2.abdelrhman-ahmed8881.workers.dev)
+- Solution URL: [GitHub](https://github.com/MrBlackvanta/article-preview-component)
+- Live Site URL: [Cloudflare](https://article-preview-component.abdelrhman-ahmed8881.workers.dev)
 - Mirror: [Netlify](https://vanta-article-preview-component.netlify.app)
 
 ## My process

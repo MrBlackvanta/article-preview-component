@@ -1,7 +1,7 @@
 import { FacebookIcon, PinterestIcon, TwitterIcon } from "@/components/icons";
 
 const url =
-  "https://article-preview-component-v2.abdelrhman-ahmed8881.workers.dev";
+  "https://article-preview-component.abdelrhman-ahmed8881.workers.dev";
 const title =
   "Shift the overall look and feel by adding these wonderful touches to furniture in your home";
 
