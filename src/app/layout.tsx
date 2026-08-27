@@ -9,11 +9,19 @@ const manrope = Manrope({
   display: "swap",
 });
 
-const title = "Article preview component";
+const title = "Article Preview Card | Share a story in one tap";
 const description =
-  "An article preview card with a share tooltip — a Frontend Mentor challenge built with Next.js, TypeScript, and Tailwind CSS.";
+  "A photograph, a headline and the byline, with a share panel that opens over the card and puts Facebook, Twitter and Pinterest one tap away.";
 const siteUrl =
   "https://article-preview-component.abdelrhman-ahmed8881.workers.dev";
+const images = [
+  {
+    url: "/opengraph-image.jpg",
+    width: 1200,
+    height: 630,
+    alt: "Article Preview Card, beside the article's own photograph",
+  },
+];
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
@@ -24,14 +32,16 @@ export const metadata: Metadata = {
     title,
     description,
     url: "/",
-    siteName: title,
+    siteName: "Article Preview Card",
     locale: "en_US",
     type: "website",
+    images,
   },
   twitter: {
-    card: "summary",
+    card: "summary_large_image",
     title,
     description,
+    images,
   },
 };
 
