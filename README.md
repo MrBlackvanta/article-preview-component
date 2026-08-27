@@ -22,7 +22,6 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 - Solution URL: [GitHub](https://github.com/MrBlackvanta/article-preview-component)
 - Live Site URL: [Cloudflare](https://article-preview-component.abdelrhman-ahmed8881.workers.dev)
-- Mirror: [Netlify](https://vanta-article-preview-component.netlify.app)
 
 ## My process
 
@@ -71,4 +70,4 @@ Other notes:
 
 - Frontend Mentor - [@MrBlackvanta](https://www.frontendmentor.io/profile/MrBlackvanta)
 - LinkedIn - [Abdelrhman Abdelaal](https://www.linkedin.com/in/abdelrhman-vanta/)
-- UpWork - [Abdelrhman Abdelaal](https://upwork.com/freelancers/~01f0a9479696b61f49)
+- UpWork - [Abdelrhman Abdelaal](https://www.upwork.com/freelancers/mrblackvanta)
