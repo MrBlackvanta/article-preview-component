@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { Manrope } from "next/font/google";
+import { siteUrl } from "@/app/site";
 import "./globals.css";
 
 const manrope = Manrope({
@@ -12,8 +13,6 @@ const manrope = Manrope({
 const title = "Article Preview Card | Share a story in one tap";
 const description =
   "A photograph, a headline and the byline, with a share panel that opens over the card and puts Facebook, Twitter and Pinterest one tap away.";
-const siteUrl =
-  "https://article-preview-component.abdelrhman-ahmed8881.workers.dev";
 const images = [
   {
     url: "/opengraph-image.jpg",
